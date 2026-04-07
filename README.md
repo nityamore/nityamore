@@ -58,20 +58,15 @@ Tools & Platforms
 
 📂 GitHub Highlights
 
-* Implemented 50+ Data Structure programs
-* Built system-level applications
 * Active contributor maintaining structured repositories
-* Passionate about low-level system development
 
 ---
 
 📌 Current Focus
 
 * Backend system design
-* System programming
-* Advanced Data Structures & Algorithms
+* Learning Data Structures & Algorithms
 * Learning database optimization techniques
-* Exploring low-level programming concepts
 
 ---
 
