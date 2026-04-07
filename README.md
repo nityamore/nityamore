@@ -77,10 +77,6 @@ Tools & Platforms
 
 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nityamore\&show_icons=true\&theme=tokyonight)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nityamore\&layout=compact\&theme=tokyonight)
-
 ![Streak](https://streak-stats.demolab.com/?user=nityamore\&theme=tokyonight)
 
 ---
