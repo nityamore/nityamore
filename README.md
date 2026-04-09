@@ -1,10 +1,12 @@
 Hi 👋, I'm Nitya More
 
-Backend Developer 
+Aspiring Software Developer
+
+💻 Tech Enthusiast passionate about building and exploring new technologies
 
 ---
 
-Aspiring Backend Developer with a strong foundation in programming and data structures. Skilled in Java and database technologies through academic and project-based experience. Seeking an opportunity to contribute to scalable backend systems while continuously enhancing technical expertise.
+Aspiring Software Developer with a strong foundation in programming and data structures. Skilled in Java and database technologies through academic and project-based experience. Seeking an opportunity to contribute to scalable backend systems while continuously enhancing technical expertise.
 
 ---
 
