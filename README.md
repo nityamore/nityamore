@@ -1,4 +1,4 @@
-Hi 👋, I'm Nitya More
+### Hi 👋, I'm Nitya More
 
 Aspiring Software Developer
 
