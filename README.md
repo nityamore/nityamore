@@ -13,9 +13,13 @@ Aspiring Software Developer with a strong foundation in programming and data str
 🚀 About Me
 
 💻 Interested in learning Backend Development
+
 ⚙️ Exploring Operating Systems, Networking, and Scalable Systems
+
 🧠 Learning Data Structures and Algorithms
+
 🐧 Familiar with working in Linux environments
+
 📚 Continuously learning new technologies and improving coding skills
 
 ---
