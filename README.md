@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nitya More
+# Hi 👋, I'm Nitya Rajesh More
 
 Aspiring Software Developer
 
