@@ -1,74 +1,53 @@
-# Hi 👋, I'm Nitya Rajesh More
+# Hi, I'm Nitya Rajesh More 👋
+Passionate About Java, Backend Systems & Problem Solving
 
-Aspiring Software Developer
-
-💻 Tech Enthusiast passionate about building and exploring new technologies
-
----
-
-Aspiring Software Developer with a strong foundation in programming and data structures. Skilled in Java and database technologies through academic and project-based experience. Seeking an opportunity to contribute to scalable backend systems while continuously enhancing technical expertise.
+I am a fresher with a strong interest in backend development. I enjoy learning programming, Data Structures and Algorithms, databases, and core computer science concepts.
 
 ---
 
-## 🚀 About Me
-
-* 💻 Interested in learning Backend Development
-* ⚙️ Exploring Operating Systems, Networking, and Scalable Systems
-* 🧠 Learning Data Structures and Algorithms
-* 🐧 Familiar with working in Linux environments
-* 📚 Continuously learning new technologies and improving coding skills
+## About Me
+Currently learning Backend Development
+Practicing Data Structures and Algorithms
+Interested in Java, databases, and scalable systems
+Familiar with Linux, Git, and GitHub
+Building academic and personal projects to improve my skills
 
 ---
 
-🛠️ Tech Stack
+## Tech Skills
 
-Programming Languages
-
+### Languages
 * Java
 * C
 * C++
 * Python
-
-Backend Technologies
-
+* 
+### Backendx
 * Core Java
 * JDBC
 * REST APIs
 
-Databases
-
+### Database
 * MySQL
-* Oracle (PL/SQL)
-
-Tools & Platforms
-
+* Oracle PL/SQL
+  
+### Tools
 * Git
 * GitHub
 * IntelliJ IDEA
 * Visual Studio Code
-
----
-
-🧠 Core Computer Science Concepts
-
-* Data Structures & Algorithms
+  
+### Core Concepts
 * Object-Oriented Programming
-* Operating Systems (Linux)
+* Data Structures and Algorithms
+* Operating Systems
 * Computer Networks
 
----
-
-📂 GitHub Highlights
-
-* Active contributor maintaining structured repositories
-
----
-
-📌 Current Focus
-
-* Backend system design
-* Learning Data Structures & Algorithms
-* Learning database optimization techniques
+### Current Focus
+* Improving Java programming skills
+* Learning backend development
+* Practicing Data Structures and Algorithms
+* Exploring database optimization
 
 ---
 
