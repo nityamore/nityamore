@@ -6,11 +6,11 @@ I am a fresher with a strong interest in backend development. I enjoy learning p
 ---
 
 ## About Me
-Currently learning Backend Development
-Practicing Data Structures and Algorithms
-Interested in Java, databases, and scalable systems
-Familiar with Linux, Git, and GitHub
-Building academic and personal projects to improve my skills
+- Currently learning Backend Development
+- Practicing Data Structures and Algorithms
+- Interested in Java, databases, and scalable systems
+- Familiar with Linux, Git, and GitHub
+- Building academic and personal projects to improve my skills
 
 ---
 
