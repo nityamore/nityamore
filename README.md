@@ -22,7 +22,7 @@ I am a fresher with a strong interest in backend development. I enjoy learning p
 * C++
 * Python
   
-### Backendx
+### Backend
 * Core Java
 * JDBC
 * REST APIs
