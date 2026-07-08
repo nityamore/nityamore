@@ -21,7 +21,7 @@ I am a fresher with a strong interest in backend development. I enjoy learning p
 * C
 * C++
 * Python
-* 
+  
 ### Backendx
 * Core Java
 * JDBC
@@ -48,12 +48,6 @@ I am a fresher with a strong interest in backend development. I enjoy learning p
 * Learning backend development
 * Practicing Data Structures and Algorithms
 * Exploring database optimization
-
----
-
-📊 GitHub Stats
-
-![Streak](https://streak-stats.demolab.com/?user=nityamore\&theme=tokyonight)
 
 ---
 
