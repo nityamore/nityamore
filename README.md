@@ -53,12 +53,14 @@ I am a fresher with a strong interest in backend development. I enjoy learning p
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies | Repository |
-|:--------|:------------|:------------|:----------:|
-| 📚 **Study Tracker** | A desktop application that helps users organize subjects, record study sessions, and monitor learning progress efficiently. | `C++` `OOP` `File Handling` | <a href="https://github.com/nityamore/study-tracker"><img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"></a> |
-| 📦 **File Packer & Unpacker** | A utility that packs multiple files into a single archive and restores them while maintaining data integrity. | `C` `Linux` `System Programming` | <a href="https://github.com/nityamore/file-packer-unpacker"><img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"></a> |
-| 💽 **CVFS (Custom Virtual File System)** | A Linux-based virtual file system that supports create, read, write, delete, and file permission operations. | `C` `Linux` `Virtual File System` | <a href="https://github.com/nityamore/cvfs"><img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"></a> |
-| 💬 **Chat Messenger** | A client-server chat application enabling real-time communication using socket programming concepts. | `C++` `Sockets` `Networking` | <a href="https://github.com/nityamore/chat-messenger"><img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"></a> |
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|:--------|:------------|:------------|
+| **Study Tracker App** | A desktop application that helps users organize subjects, record study sessions, and monitor learning progress efficiently. | `C++` `OOP` `File Handling` |
+| **File Packer and Unpacker with Encryption** | A utility that packs multiple files into a single archive, encrypts the data for security, and restores them while maintaining data integrity. | `C` `Linux` `System Programming` `Encryption` |
+| **Customized Virtual File System (CVFS)** | A Linux-based virtual file system that supports create, read, write, delete, and file permission operations. | `C` `Linux` `Virtual File System` |
+| **Java Chat Messenger with Log Facility** | A client-server chat application enabling real-time communication with a logging facility to maintain chat history. | `Java` `Socket Programming` `Networking` `Multithreading` |
 
 ---
 
