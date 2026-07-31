@@ -57,8 +57,8 @@ I am a fresher with a strong interest in backend development. I enjoy learning p
 
 | Project | Description | Technologies |
 |:--------|:------------|:------------|
-| **Study Tracker App** | A desktop application that helps users organize subjects, record study sessions, and monitor learning progress efficiently. | `C++` `OOP` `File Handling` |
-| **File Packer and Unpacker with Encryption** | A utility that packs multiple files into a single archive, encrypts the data for security, and restores them while maintaining data integrity. | `C` `Linux` `System Programming` `Encryption` |
+| **Study Tracker App** | A desktop application that helps users organize subjects, record study sessions, and monitor learning progress efficiently. | `Java` `OOP` `File Handling` |
+| **File Packer and Unpacker with Encryption** | A utility that packs multiple files into a single archive, encrypts the data for security, and restores them while maintaining data integrity. | `Java` `Encryption` |
 | **Customized Virtual File System (CVFS)** | A Linux-based virtual file system that supports create, read, write, delete, and file permission operations. | `C` `Linux` `Virtual File System` |
 | **Java Chat Messenger with Log Facility** | A client-server chat application enabling real-time communication with a logging facility to maintain chat history. | `Java` `Socket Programming` `Networking` `Multithreading` |
 
