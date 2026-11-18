@@ -53,8 +53,3 @@ I am a fresher with a strong interest in backend development. I enjoy learning p
 
 ---
 
-📈 Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nityamore\&theme=tokyo-night)
-
----
